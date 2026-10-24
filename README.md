@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shah Jalal</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Shah%20Jalal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Tester%20%7C%20CSE%20Student&descAlignY=58&descSize=18" width="100%" />
+</p>
 
-<p align="center"><b>Developer | Tester | CSE Student | Web Designer 🚀</b></p>
+<p align="center">
+  <a href="https://github.com/shahjalal0212">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=50&lines=Developer+%7C+Tester;CSE+Student+%40+Green+University;Web+Designer+%26+ML+Learner;Building+things+that+ship+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahjalal0212&label=PROFILE+VIEWS&color=ff4d6d&style=flat" />
@@ -54,4 +60,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/shahjalal0212"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
 </p>
