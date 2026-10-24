@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shah Jalal</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Developer+%7C+Tester+%7C+CSE+Student;Web+Designer+%7C+ML+Enthusiast;Building+things+that+ship+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<p align="center"><b>Developer | Tester | CSE Student | Web Designer 🚀</b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahjalal0212&label=PROFILE+VIEWS&color=ff4d6d&style=flat" />
@@ -29,10 +27,19 @@
 
 ---
 
-### 📈 Contributions
+### 🚀 Projects
+
+- 🚢 [SF Shipping](https://github.com/shahjalal0212/sf-shipping): company website
+- 🧑‍💻 [My Portfolio](https://github.com/shahjalal0212/my-portfolio): personal portfolio
+- 🎓 [GreenVerse App](https://github.com/shahjalal0212/greenverse-app): learning platform for Green University students
+- 🤖 [Doc QA Bot](https://github.com/shahjalal0212/doc-qa-bot): document question-answering bot
+
+---
+
+### 🐍 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahjalal0212&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/shahjalal0212/shahjalal0212/output/github-snake-dark.svg" width="100%" />
 </p>
 
 ### 🔥 GitHub Streak Stats
